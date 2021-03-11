@@ -1,0 +1,1 @@
+# 04-ELECTRONICA-M-A1-S2-Tehnici-de-analiz-i-clasificare-automat-a-informa-iei-2020-

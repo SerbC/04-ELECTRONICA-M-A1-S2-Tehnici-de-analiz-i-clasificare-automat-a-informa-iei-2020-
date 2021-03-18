@@ -4,3 +4,6 @@ Propuneri proiect semestru:
   *face recognition
   *hand gesture recognition
   *scene classification
+
+
+https://drive.google.com/drive/folders/1BGXxYY7fSb2mwCnJIAPZqOeXFWrT5tdG?usp=sharing
